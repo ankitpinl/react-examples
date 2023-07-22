@@ -1,2 +1,2 @@
 ## React hooks
-- I will explain different sort of hooks in react js.
+- Here is the explanation of different sort of hooks.
